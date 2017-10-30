@@ -5,8 +5,12 @@
 As the core assignment of one of this Level 1 module, I was a member of an externally 
 selected team in which we had to build a web app running on a local Apache web server. 
 A variety of project topics were provided from which we had to select one. We chose to
- build a web app which focused on allowing the user to search for music based on the 
- emotions associated with that piece of music.
+build a web app which focused on allowing the user to search for music based on the 
+emotions associated with that piece of music. The team consisted of four members. I 
+was tasked with building the search functionality, which was the core part of the web 
+app. In addition, I also implemented the streaming page for playing a song as well as
+playlist functionality, which provided the user with the ability to create and share 
+their own playlists.
 
 = = = = = RUNNING THE WEB APP = = = = =
 	- Import project into Eclipse
