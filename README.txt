@@ -1,6 +1,7 @@
 = = = = = = = = = = = = = =
  CSC1009 Web App Assignment
   Emotional Music Database
+       Eimhin Laverty
 = = = = = = = = = = = = = =
 
 = = = = = RUNNING THE WEB APP = = = = =
